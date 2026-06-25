@@ -142,3 +142,23 @@ nav ul li:hover{
     }
 
 }
+/* About Section */
+
+.about{
+    padding:100px 15%;
+    text-align:center;
+}
+
+.about h2{
+    color:#8B5CF6;
+    font-size:40px;
+    margin-bottom:25px;
+}
+
+.about p{
+    color:#CBD5E1;
+    font-size:18px;
+    line-height:1.8;
+    max-width:800px;
+    margin:auto;
+}
