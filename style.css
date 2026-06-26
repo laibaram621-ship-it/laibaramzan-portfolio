@@ -60,6 +60,28 @@ nav ul li:hover{
 /* Hero Section */
 
 .hero{
+    min-height:90vh;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:50px 10%;
+}
+
+.hero-text{
+    width:50%;
+}
+
+.hero-image{
+    width:45%;
+    text-align:center;
+}
+
+.hero-image img{
+    width:100%;
+    max-width:500px;
+}
+
+.hero{
     min-height:85vh;
     display:flex;
     justify-content:center;
