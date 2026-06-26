@@ -1,6 +1,16 @@
 /* Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
+body{
+    background-image: linear-gradient(rgba(11,17,32,0.85),rgba(11,17,32,0.85)),url("images/background.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    color:#F8FAFC;
+    font-family:'Poppins',sans-serif;
+}
+
 *{
     margin:0;
     padding:0;
